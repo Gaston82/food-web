@@ -1,5 +1,5 @@
 html {
-	background-color: white;
+	background-color: rgb(250, 244, 244);
 }
 a {
 	text-decoration: none;
@@ -23,7 +23,7 @@ body {
 /*  HEADEER  */
 header {
 height: 150px;
-margin-top: 10px;
+padding-top: 10px;
 }
 header li:first-child {
 	border-right: 1px solid #339966;
